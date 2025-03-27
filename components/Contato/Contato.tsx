@@ -1,12 +1,3 @@
-import {
-  Phone,
-  Mail,
-  MapPin,
-  Clock,
-  Scale,
-  Instagram,
-  Linkedin,
-} from "lucide-react";
 import React from "react";
 
 function Contato() {
