@@ -38,8 +38,7 @@ function Filosofia() {
             </p>
 
             <div className="relative">
-              <div className="absolute bg-[#d4bd7b] h-16 md:h-20 w-2"></div>
-              <blockquote className="pl-4 italic text-base md:text-lg text-gray-600 border-l-4 border-gray-300">
+              <blockquote className="pl-4 italic text-base md:text-lg text-gray-600 border-l-4 border-[#d4bd7b]">
                 "A relação entre advogado e cliente é sagrada. Honramos essa
                 relação por meio de um compromisso inabalável, prática ética e
                 defesa incansável."

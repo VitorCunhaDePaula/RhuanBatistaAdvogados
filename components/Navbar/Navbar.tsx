@@ -50,7 +50,9 @@ const Navbar = () => {
               quem somos
             </a>
 
-            <Button className="bg-[#121a21]">Contato</Button>
+            <a href="#contact">
+              <Button className="bg-[#121a21] cursor-pointer">Contato</Button>
+            </a>
           </div>
 
           <button
@@ -89,13 +91,14 @@ const Navbar = () => {
               >
                 quem somos
               </a>
-
-              <Button
-                className="bg-[#121a21] mt-2 lora"
-                onClick={() => setIsMobileMenuOpen(false)}
-              >
-                Contato
-              </Button>
+              <a href="#contact">
+                <Button
+                  className="bg-[#121a21] mt-2 lora cursor-pointer"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  Contato
+                </Button>
+              </a>
             </div>
           </div>
         )}

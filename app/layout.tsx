@@ -20,7 +20,7 @@ const lora = Lora({
 export const metadata: Metadata = {
   title: "Rhuan Batista Advogados Associados",
   description: "Rhuan Batista Advogados Associados",
-  icons: "./logo.jpeg",
+  icons: "./icon.png",
 };
 
 export default function RootLayout({

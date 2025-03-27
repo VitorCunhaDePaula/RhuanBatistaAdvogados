@@ -20,10 +20,17 @@ function Hero() {
             </p>
             <div className="flex gap-2 flex-col md:flex-row">
               <Button className="bg-[#121a21] text-lg p-6 cursor-pointer lora">
-                Agendar Consulta
+                <a
+                  href="https://api.whatsapp.com/message/KRAEZSK5EOMFG1?autoload=1&app_absent=0"
+                  target="_blank"
+                  className="w-full"
+                >
+                  Agendar Consulta
+                </a>
               </Button>
+
               <Button className="bg-white lora border hover:bg-accent cursor-pointer border-[#121a21] text-[#121a21] text-lg p-6">
-                Nossa área de atuação
+                <a href="#areas">Nossa área de atuação</a>
               </Button>
             </div>
           </div>

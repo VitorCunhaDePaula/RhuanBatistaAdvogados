@@ -93,9 +93,11 @@ function Areas() {
               personalizadas para discutir sua situação específica e fornecer
               orientação especializada.
             </p>
-            <Button className="bg-[#121a21] text-lg p-6 cursor-pointer lora w-56">
-              Agende uma Consulta
-            </Button>
+            <a href="https://api.whatsapp.com/message/KRAEZSK5EOMFG1?autoload=1&app_absent=0">
+              <Button className="bg-[#121a21] text-lg p-6 cursor-pointer lora w-56">
+                Agende uma Consulta
+              </Button>
+            </a>
           </div>
           <img
             src="./adv.avif"
