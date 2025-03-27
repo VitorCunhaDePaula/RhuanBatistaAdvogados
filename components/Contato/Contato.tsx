@@ -96,42 +96,6 @@ function Contato() {
                 advocacia civil dedicado a oferecer uma representação jurídica
                 excepcional, com integridade, expertise e atenção personalizada.
               </p>
-
-              <div className="flex items-center space-x-5">
-                <a
-                  href="https://www.instagram.com/rhuannascimento.adv"
-                  className="text-white/70 hover:text-[#d4bd7b]transition-colors"
-                  aria-label="Instagram"
-                  target="_blank"
-                >
-                  <img
-                    src="https://cdn.iconscout.com/icon/free/png-256/free-instagram-1946323-1646407.png?f=webp"
-                    className="h-12 w-12 object-cover"
-                  />
-                </a>
-                <a
-                  href="https://x.com/RhuanBAdvogado"
-                  className="text-white/70 hover:text-[#d4bd7b] transition-colors"
-                  aria-label="X"
-                  target="_blank"
-                >
-                  <img
-                    className="h-8 w-8"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/2048px-X_icon.svg.png"
-                  ></img>
-                </a>
-                <a
-                  href="https://api.whatsapp.com/message/KRAEZSK5EOMFG1?autoload=1&app_absent=0"
-                  className="text-white/70 hover:text-[#d4bd7b] transition-colors"
-                  aria-label="WhatsApp"
-                  target="_blank"
-                >
-                  <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png"
-                    className="h-8 w-8"
-                  />
-                </a>
-              </div>
             </div>
             <div className=" text-center md:text-left">
               <h4 className="text-white font-medium mb-4 lora">
