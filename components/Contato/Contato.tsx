@@ -1,3 +1,4 @@
+import { Scale } from "lucide-react";
 import React from "react";
 
 function Contato() {
